@@ -1,0 +1,23 @@
+artifact_path: file:///d:/Programming/Phitron/Machine Learning/ML Models Advanced/ML
+  Project Week/Project Practice/mlruns/594079073566641684/models/m-a3ada7f589aa45018899cee98c9389d4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.8.1
+model_id: m-a3ada7f589aa45018899cee98c9389d4
+model_size_bytes: 1575655
+model_uuid: m-a3ada7f589aa45018899cee98c9389d4
+prompts: null
+run_id: 266b20aef07447d3bad91064525cc8cd
+utc_time_created: '2026-01-16 20:54:01.686360'

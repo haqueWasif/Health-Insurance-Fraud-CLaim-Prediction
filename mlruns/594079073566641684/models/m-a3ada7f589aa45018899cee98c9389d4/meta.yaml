@@ -1,0 +1,11 @@
+artifact_location: file:///d:/Programming/Phitron/Machine Learning/ML Models Advanced/ML
+  Project Week/Project Practice/mlruns/594079073566641684/models/m-a3ada7f589aa45018899cee98c9389d4/artifacts
+creation_timestamp: 1768596841637
+experiment_id: '594079073566641684'
+last_updated_timestamp: 1768596846091
+model_id: m-a3ada7f589aa45018899cee98c9389d4
+model_type: null
+name: model
+source_run_id: 266b20aef07447d3bad91064525cc8cd
+status: 2
+status_message: null
